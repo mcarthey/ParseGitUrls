@@ -1,0 +1,90 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Files\baumannhunterbuzz_60050_link.html" />
+    <None Remove="Files\beilfusschristopherf_8993_link.html" />
+    <None Remove="Files\buehlerdanieljason_60113_link.html" />
+    <None Remove="Files\diemjonathanc_LATE_48062_link.html" />
+    <None Remove="Files\dziadulewiczjefferythaddeus_60824_link.html" />
+    <None Remove="Files\gorjestaninicholas_60838_link.html" />
+    <None Remove="Files\heiladamd_58432_link.html" />
+    <None Remove="Files\hernandezluisdiego_62029_link.html" />
+    <None Remove="Files\hindsdanielw_60110_link.html" />
+    <None Remove="Files\johnsonrileyd_LATE_14293_link.html" />
+    <None Remove="Files\kavanaughalexmichael_7761_link.html" />
+    <None Remove="Files\linzsteveg_55235_link.html" />
+    <None Remove="Files\mckinneydonovanbernard_54703_link.html" />
+    <None Remove="Files\ornelasjorge_62022_link.html" />
+    <None Remove="Files\peppinericryan_59974_link.html" />
+    <None Remove="Files\ramalepathatok_61054_link.html" />
+    <None Remove="Files\sutterjoseph_40726_link.html" />
+    <None Remove="Files\thanasalexanderc_11232_link.html" />
+    <None Remove="Files\voelzisabellamaria_29970_link.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Files\baumannhunterbuzz_60050_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\beilfusschristopherf_8993_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\buehlerdanieljason_60113_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\diemjonathanc_LATE_48062_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\dziadulewiczjefferythaddeus_60824_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\gorjestaninicholas_60838_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\heiladamd_58432_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\hernandezluisdiego_62029_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\hindsdanielw_60110_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\johnsonrileyd_LATE_14293_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\kavanaughalexmichael_7761_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\linzsteveg_55235_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\mckinneydonovanbernard_54703_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\ornelasjorge_62022_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\peppinericryan_59974_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\ramalepathatok_61054_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\sutterjoseph_40726_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\thanasalexanderc_11232_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Files\voelzisabellamaria_29970_link.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
